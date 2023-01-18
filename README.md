@@ -3,7 +3,7 @@
 ## Pour compiler sur un IDE
   1. Créer un projet sur votre IDE (Clion de préfèrence)
   2. Copier les fichiers à l'intérieur
-  3. Utiliser la compilation automatique de votre IDE et normalement tout devrait bien se passer(envoyer moi un mail meywast@gmail.com, si il se passe quelque chose)
+  3. Utiliser la compilation automatique de votre IDE (avec MobaXTerm) et normalement tout devrait bien se passer(envoyer moi un mail meywast@gmail.com, si il se passe quelque chose)
 
 ## Pour compiler sur Debian
   apt packages: 
