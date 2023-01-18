@@ -27,4 +27,4 @@ Certains mécaniques du jeu :
 - Bloc qui disparait
 - Crabe qui se déplace
 
-Un gif est mis dans le fichier et vous donne un apercu du jeu
+Un gif est mis dans le fichier et vous donne un apercu du jeu (le carré cache des infos persos)
